@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm an undergraduate student at Yachay Tech Univer
 I have experience working on various projects, including developing **machine learning models** for social issues like **hate speech detection on Twitter**. I’m particularly interested in applying AI and data-driven approaches to fields like public safety and social cohesion.
 
 ## 💡 My Skills
-- **Programming Languages**: Python, C++, MATLAB, LaTeX
-- **Front-End Development**: HTML5, Kivy, Tkinter
+- **Programming Languages**:computer:: Python, C++, MATLAB, LaTeX
+- **Front-End Development**:bar_chart:: HTML5, Kivy, Tkinter
 - **Data Analysis & Visualization**:chart_with_upwards_trend:: Power BI, Tableau, MySQL, MongoDB
-- **Languages**: Spanish (native), English (Intermediate)
+- **Languages**:notebook:: Spanish (native), English (Intermediate)
 
 ## 🌱 What I'm Working On
 I’m involved in projects related to machine learning, AI, and educational outreach. I’m always looking to expand my knowledge and apply technology to address real-world challenges.
