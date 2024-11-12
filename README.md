@@ -12,7 +12,7 @@ I have experience working on various projects, including developing **machine le
 ## 💡 My Skills
 - **Programming Languages**: Python, C++, MATLAB, LaTeX
 - **Front-End Development**: HTML5, Kivy, Tkinter
-- **Data Analysis & Visualization**: Power BI, Tableau, MySQL, MongoDB
+- **Data Analysis & Visualization**:chart_with_upwards_trend:: Power BI, Tableau, MySQL, MongoDB
 - **Languages**: Spanish (native), English (Intermediate)
 
 ## 🌱 What I'm Working On
